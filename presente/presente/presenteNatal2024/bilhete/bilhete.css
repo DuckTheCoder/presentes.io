@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+#bilhete{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#titulo{
+    font-family: "Sour Gummy", sans-serif;
+    text-align: center;
+}
+
+body{
+    background-color: #4a4a4a;
+}
+
+p{
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+#botao{
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 14px 40px;
+}
