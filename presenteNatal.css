@@ -50,7 +50,8 @@ body{
     opacity: 0;
     height: 200px;
     width: 200px;
-    cursor: auto;
+    cursor: pointer;
+    border: none;
 }
 
 #bilhete{
@@ -58,7 +59,8 @@ body{
     opacity: 0;
     height: 200px;
     width: 200px;
-    cursor: auto;
+    cursor: pointer;
+    border: none;
 }
 
 #imagem2{
@@ -66,16 +68,14 @@ body{
     opacity: 0;
     height: 200px;
     width: 200px;
-    cursor: auto;
+    cursor: pointer;
+    border: none;
 }
 
 #botao{
-    cursor: auto;
+    cursor: pointer;
     opacity: 0;
     margin-top: 50px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
     font-family: "Sour Gummy", sans-serif;
     font-size: 20px;
     text-decoration: none;
