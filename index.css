@@ -21,9 +21,10 @@ body{
     margin-right: auto;
     height: 100px;
     width: 100px;
-    gap:20px;
+    gap: 20px;
 }
 
 #jan2024{
-    size: 180px;
+    height: 180px;
+    width: 180px;
 }
