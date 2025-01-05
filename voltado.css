@@ -15,29 +15,29 @@ body{
     margin: 10px; 
     height: 200px;
     width: 200px;
-    cursor:auto
+    cursor: pointer;
+    border: none;
 }
 
 #bilhete{
     margin: 10px; 
     height: 200px;
     width: 200px;
-    cursor: auto;
+    cursor: pointer;
+    border: none;
 }
 
 #imagem2{
     margin: 10px; 
     height: 200px;
     width: 200px;
-    cursor:auto
+    cursor: pointer;
+    border: none;
 }
 
 #botao{
-    cursor: auto;
+    cursor: pointer;
     margin-top: 50px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
     font-family: "Sour Gummy", sans-serif;
     font-size: 20px;
     text-decoration: none;
