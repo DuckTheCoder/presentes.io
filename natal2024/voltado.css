@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: #FCB0BF;
+}
+
+#imagemCtn{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 300px;
+}
+
+#imagem1{
+    margin: 10px; 
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    border: none;
+}
+
+#bilhete{
+    margin: 10px; 
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    border: none;
+}
+
+#imagem2{
+    margin: 10px; 
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    border: none;
+}
+
+#botao{
+    cursor: pointer;
+    margin-top: 50px;
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 14px 40px;
+}
