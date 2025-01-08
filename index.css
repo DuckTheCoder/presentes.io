@@ -4,22 +4,25 @@ body{
     background-color: #FCB0BF;
 }
 
-#texto{
+h1{
     font-family: "Sour Gummy", sans-serif;
     text-align: center;
 }
 
-#escolherPresentes{
-    display: flex;
-    flex-wrap: wrap;
-}
-
 .presentes{
-    margin-top: 159px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     height: 100px;
     width: 100px;
     gap: 20px;
+}
+
+p{
+    font-family: "Sour Gummy", sans-serif;
+    text-align: center;
+}
+
+.anos{
+    margin-top: 150px;
 }
